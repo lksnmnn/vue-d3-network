@@ -26,11 +26,13 @@
     "d3",
     "network",
     "d3-force",
+    "WebCoLa",
     "graph",
     "component"
   ],
   "dependencies": {
-    "d3-force": "^1.0.6"
+    "d3-force": "^1.0.6",
+    "webcola": "^3.3.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
